@@ -1,0 +1,43 @@
+
+.a {
+    text-align:right;    
+    font-size: large;/* 文字中央寄せ */
+    padding:  150px;        /* 余白指定 */
+    border: solid 2px;      /* 枠線指定 */
+    
+}
+.a {
+
+    background-image:url(identity.jpeg.jpg) ;
+    
+    width: 50%; 
+    min-height: 100vh;
+    background-repeat:  no-repeat;
+    background-position: left top;
+    background-color: rgba(58, 250, 240, 0.856);
+    
+}
+.c {
+    position: relative;
+    display: inline-block;
+    margin: 1.5em 15px 1.5em 0;
+    padding: 0 5px;
+    width: 90px;
+    height: 90px;
+    line-height: 90px;
+    text-align: center;
+    color: #FFF;
+    font-size: 20px;
+    font-weight: bold;
+    background: #a58eff;
+    border-radius: 50%;
+    box-sizing: border-box;
+  }
+  
+
+
+#output{
+    text-align:  right;    /* 文字中央寄せ */
+
+
+}
